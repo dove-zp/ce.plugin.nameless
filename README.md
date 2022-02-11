@@ -1,6 +1,6 @@
 
 # Cheat Engine - Plugin
-## Nameless
+## Nameless - The Cheat Engine Renamer 
 
 This is a simple plugin to help bypass anti-cheat window title detection methods. 
 
