@@ -2,7 +2,7 @@
 # Cheat Engine - Plugin
 ## Nameless
 
-This is a simple plugin to help bypass simple anti-cheat window title detections. 
+This is a simple plugin to help bypass anti-cheat window title detection methods. 
 
 ## Building Environment
 
